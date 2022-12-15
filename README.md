@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brielle-shepard
 - 👀 I’m interested in Data Analytics, Cyber Security and IT Infrastructure
-- 🌱 I’m currently learning SQL and Python
+- 🌱 I’m new to Data Analytics and am currently learning SQL and Python
 - 💞️ I’m looking to collaborate on Data Analytics Projects
 - 📫 How to reach me: brielle.shepard@bshepard.info
 
