@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brielle-shepard
-- 👀 I’m interested in Data Analytics, Cyber Security and IT Infrastructure and Cloud Administration
+- 👀 I’m interested in Data Analytics, Cyber Security, IT Infrastructure and Cloud Administration
 - 🌱 I am currently learning SQL, Python, C++, and PowerShell automation
 - 💞️ I’m looking to collaborate on any project really; I'm open to helping out/learning
 
